@@ -42,6 +42,7 @@ public class RegisterUserActivity extends AppCompatActivity {
         registerBtn = findViewById(R.id.registerBtn);
         registerSeller = findViewById(R.id.registerSeller);
 
+
         backBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {

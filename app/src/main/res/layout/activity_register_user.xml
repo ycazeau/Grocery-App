@@ -205,7 +205,9 @@
         android:layout_centerHorizontal="true"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_below="@+id/cpasswordEt"/>
+        android:layout_below="@+id/cpasswordEt"
+        android:paddingRight="20dp"
+        android:paddingLeft="20dp"/>
 
     <TextView
         android:id="@+id/registerSeller"
